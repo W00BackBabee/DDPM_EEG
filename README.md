@@ -5,8 +5,7 @@ EEG-conditioned denoising diffusion training code for predicting audio spectrogr
 ## Repository layout
 
 - `main.py`: command-line entrypoint
-- `eeg_ddpm/`: public Python package exports
-- `utility/`: training, dataset, DDPM, pairing, and split logic
+- `eeg_ddpm/`: public Python package and training logic
 - `configs/example_config.json`: example experiment configuration
 
 ## Requirements
